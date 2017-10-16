@@ -15,7 +15,6 @@ import tensorflow as tf
 DOWNLOAD_URL = 'http://mattmahoney.net/dc/'
 EXPECTED_BYTES = 31344016
 DATA_FOLDER = './eg_data/'
-#DATA_FOLDER = '/Users/Desktop/cs20/tf-stanford-tutorials/examples/eg_data/'
 FILE_NAME = 'text8.zip'
 
 def download(file_name, expected_bytes):
